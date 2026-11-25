@@ -4,11 +4,17 @@ Willkommen auf meiner Dokumentationsseite!
 
 In diesem Projekt beschäftige ich mich mit GitHub und seinen verschiedenen Funktionen. Hier dokumentiere ich wichtige Informationen, die Einrichtung und die Funktionen meines Projekts.
 
-## Inhalt
+## Inhaltsverzeichnis
 
-- [Einrichtung](docs/setup.md)
-- [Funktionen](docs/features.md)
+1. [Einleitung](#einleitung)
+2. [Projektziel](#projektziel)
+3. [Einrichtung](docs/setup.md)
+4. [Funktionen](docs/features.md)
 
-## Ziel
+## Einleitung
+
+Diese Dokumentation zeigt verschiedene Möglichkeiten von GitHub und erklärt, wie man damit arbeitet.
+
+## Projektziel
 
 Das Ziel dieses Projekts ist es, den Umgang mit GitHub, Markdown und GitHub Pages besser kennenzulernen.
